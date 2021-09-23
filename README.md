@@ -1,2 +1,1 @@
-# android-sdk-builds
-the public builds of our android sdk 
+The Prizeout, Swift SDK is currently in private testing. [Please contact partner sales for access.](https://prizeout.com/partners/) For more information and/or support regarding the technical implementation, contact your  partner support team or reach out to techsupport@prizeout.com directly for more info.
